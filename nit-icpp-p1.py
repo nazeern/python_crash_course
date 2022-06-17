@@ -1,0 +1,6 @@
+print "my name is nitin"
+print "i live in the united states"
+print "i finished ninth grade"
+print "i go to high school"
+print "i like to play piano"
+print "i want to be a doctor"
